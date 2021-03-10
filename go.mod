@@ -1,4 +1,4 @@
-module github.com/google/go-querystring
+module github.com/chrisjoyce911/go-querystring
 
 go 1.10
 
